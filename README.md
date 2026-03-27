@@ -1,5 +1,7 @@
 <!-- 🔥 Animated Header -->
 <img src="P3.jpeg" />
+<p align="center">
+
 
 <h1 align="center">Hey 👋 I'm Kishan Sahu</h1>
 <h3 align="center">🚀 BCA Student | Full Stack Developer | AI Enthusiast</h3>
