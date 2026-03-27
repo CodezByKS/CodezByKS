@@ -26,12 +26,7 @@
 
 ## 🧠 Who Am I?
 
-```js
-const kishan = {
-  education: "BCA Student",
-  focus: ["Full Stack Development", "AI Projects"],
-  skills: ["HTML", "CSS", "JavaScript", "Python", "Django"],
-  currentGoal: "Build impactful real-world applications 🚀",
+
 };
 name: Generate Snake
 
