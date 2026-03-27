@@ -8,7 +8,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Smart+AI+Developer;Full+Stack+Engineer;Django+Lover;Always+Learning+New+Tech&center=true&width=500&height=50">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Kishan%20Sahu" />
 </p>
 
 ---
