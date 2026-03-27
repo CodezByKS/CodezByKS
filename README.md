@@ -1,5 +1,5 @@
 <!-- 🔥 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Kishan%20Sahu&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="P3.jpeg" />
 
 <h1 align="center">Hey 👋 I'm Kishan Sahu</h1>
 <h3 align="center">🚀 BCA Student | Full Stack Developer | AI Enthusiast</h3>
