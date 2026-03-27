@@ -21,7 +21,7 @@
 👯 Open to: Collaboration & Hackathons  
 🤝 Need help with: Scaling & AI Models  
 🌱 Learning: Full Stack + AI Integration  
-💬 Ask me: Anything Tech 😄  
-⚡ Fun fact: Debugging is my cardio 💻🔥  
+💬 Ask me: Anything Tech 
+⚡ Fun fact: Debugging is my cardio  
 
 
