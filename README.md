@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Hey%20there,%20I'm%20[Kishan sahu Tech]%20👋&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descAlignY=68&descSize=16&descColor=a8b2c0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Hey%20there,%20I'm%20Kishan%20Sahu%20👋&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descAlignY=68&descSize=16&descColor=a8b2c0" width="100%" />
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/kishan-sahu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
   &nbsp;
