@@ -1,6 +1,6 @@
-<!-- Banner -->
+<img width="996" height="958" alt="image" src="https://github.com/user-attachments/assets/0bc7d558-a15f-4e1a-b866-33f926316122" /><!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Hey%20there,%20I'm%20Kishan%20Sahu%20👋&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descAlignY=68&descSize=16&descColor=a8b2c0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Hey%20there,%20I'm%20Kishan%20Sahu%20👋&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=Developer's%20Buddy✌️%20&descAlignY=68&descSize=16&descColor=a8b2c0" width="100%" />
 </div>
 
 <br/>
